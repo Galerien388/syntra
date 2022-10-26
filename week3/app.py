@@ -44,3 +44,9 @@ def travel_list(nrs, limit):
     print(cnt)
 
 travel_list(nrs,6)
+
+
+
+
+
+
